@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927834548834",
+    "project_id": "petik-bm",
+    "storage_bucket": "petik-bm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927834548834:android:9a32bb6536f5cc02b83f3b",
+        "android_client_info": {
+          "package_name": "com.abul.petik_bm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927834548834-1php90mdui394v9pivpk4aa36he33is6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQsMXuqESEDwyHt4BVo8cP5Qiu72VfPKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927834548834-1php90mdui394v9pivpk4aa36he33is6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
